@@ -1,5 +1,7 @@
 # DGX Spark (GB10) 多机 LLM 部署与调优实战
 
+[English](README.md) | 简体中文
+
 4× NVIDIA DGX Spark (GB10, aarch64) 组成 **switchless 光纤直连环**，跑 DeepSeek-V4.1-Flash
 FP8 四机 TP4 推理。本文档记录**全部实测数据**——包括成功的配置和踩过的坑。
 
